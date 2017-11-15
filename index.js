@@ -21,4 +21,3 @@ bot.on('message', (message) => {
 });
 
 bot.login('YOUR BOT TOKEN');
-
